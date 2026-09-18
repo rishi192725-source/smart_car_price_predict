@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+
+# Model explainability
+shap>=0.42.0
+
+# Web app
+streamlit>=1.28.0
+pickle-mixin==1.0.2
+
+# Visualisation (used in cleaning notebook)
+matplotlib>=3.7.0
+seaborn>=0.12.0
