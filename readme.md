@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Machine Learning
+# 🚗 SmartCar Price Predictor
 
 ## 📌 Overview
 
@@ -119,8 +119,8 @@ An interactive UI was built using Streamlit:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction-streamlit-app.git
-cd car-price-prediction-streamlit-app
+git clone https://github.com/your-username/smart-car-price-predict.git
+cd smart-car-price-predict
 pip install -r requirements.txt
 streamlit run app.py
 ```

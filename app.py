@@ -16,9 +16,9 @@ model = load_model()
 # =========================================
 # PAGE CONFIG
 # =========================================
-st.set_page_config(page_title="🚗 Car Price Predictor", layout="wide")
+st.set_page_config(page_title="🚗 SmartCar Price Predictor", layout="wide")
 
-st.title("🚗 AI Car Price Predictor")
+st.title("🚗 SmartCar Price Predictor")
 st.markdown("### Get accurate car price using Machine Learning")
 
 # =========================================
