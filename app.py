@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title="🚗 SmartCar Price Predictor", layout="wide")
 import pandas as pd
 import numpy as np
 import pickle
@@ -16,7 +17,6 @@ model = load_model()
 # =========================================
 # PAGE CONFIG
 # =========================================
-st.set_page_config(page_title="🚗 SmartCar Price Predictor", layout="wide")
 
 st.title("🚗 SmartCar Price Predictor")
 st.markdown("### Get accurate car price using Machine Learning")
